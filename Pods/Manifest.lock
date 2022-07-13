@@ -1,0 +1,21 @@
+PODS:
+  - Masonry (1.1.0)
+  - ZYBAvoidCrash (0.0.1)
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - ZYBAvoidCrash (= 0.0.1)
+
+SPEC REPOS:
+  "git@git.zuoyebang.cc:native/ZYBSpecs.git":
+    - ZYBAvoidCrash
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ZYBAvoidCrash: 19a1302d4eaeae0fe40b74d7d9900fa129214ea7
+
+PODFILE CHECKSUM: 6cdc57c61afc06fe1cb63a9f4fbe1b698ceed65c
+
+COCOAPODS: 1.11.2
