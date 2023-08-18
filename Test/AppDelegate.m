@@ -18,7 +18,7 @@
     // Override point for customization after application launch.
 //    [self avoidCrash];
     
-    //111
+    //1
     return YES;
 }
 
