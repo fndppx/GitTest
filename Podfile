@@ -23,7 +23,7 @@ target 'Test' do
 #     pod 'AFNetworking', '~> 4.0'
 #     pod 'SSZipArchive', '2.2.2'
 #     pod 'MBProgressHUD', '~> 1.1.0'
-     pod 'Masonry', '~> 1.1.0'
+     pod 'Masonry', '1.1.0'
 #     pod 'MyLibrary', '~> 0.1.1'
 #     pod 'MyLibraryPodTest', '~> 0.1.0'
 #     pod 'MyLibraryPodTest'
